@@ -273,4 +273,4 @@ Amélioration seuil : [+X.X]%
 ---
 
 **Merci d'avoir reviewé ce projet !** 🎉  
-**Contact** : [pierre.pluton@outlook.fr | pierre@thoughside.com
+**Contact** : [pierre.pluton@outlook.fr | pierre@thoughtside.com
